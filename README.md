@@ -1,6 +1,6 @@
 <h1 align="center"> Jogo do Mosquito </h1>
 
-<p align="center">Aplicação de calculadora simples que tem como foco em aprender conceitos simples de Javascript. <br/>
+<p align="center">Aplicação simples de um game de Browser criado com o intuito de testar conceitos simples de Javascript. <br/>
 </p>
 
 <p align="center">
@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Página criada com o intuito de criar boas práticas nos conceitos básicos de HTML, CSS e Javascript.
 
-<!-- [Visite o projeto online](https://danrodriguezdev.github.io/App-Calculadora/) -->
+[Visite o projeto online](https://danrodriguezdev.github.io/Jogo-Mosquito/)
